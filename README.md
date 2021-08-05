@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# AWS Chime Sample(server side)
+
+Amazon chime을 이용한 샘플입니다
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
